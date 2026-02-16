@@ -1,4 +1,3 @@
-# CODECRAFT_ST_01 
 # Manual Testing – Calculator Application
 
 This repository contains manual test cases for a simple calculator application.
